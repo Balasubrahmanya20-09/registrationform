@@ -12,6 +12,11 @@
 	<form action= "userDetail">
 		User Name: <input id="Uname" name="Uname"/><br>
 		Email ID: <input id="EmailId" name="EmailId"/><br>
+<div class="container d-flex flex-row justify-content-between" id="holdMe" style="background-image:url('https://i.pinimg.com/originals/21/a5/68/21a5687303a22e32a4b8f1d2c73e2538.jpg');">
+ <h1>Registration Form</h1>
+	<form action= "userDetail">
+		User Name: <input id="Uname" name="Uname"/><br>
+		Email ID: <input id="EmailId" name="EmailId"/><br>
 		Password: <input type="password" id="Password" name="Password"/><br>
 		Gender: <input type= "radio"name= "Gender" value="1" checked=true/> Male
 		<input type= "radio" name="Gender" value="2"/> Female <br>
