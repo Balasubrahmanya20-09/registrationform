@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div class="container d-flex flex-row justify-content-between" id="holdMe" style="background-image:url('https://i.pinimg.com/originals/21/a5/68/21a5687303a22e32a4b8f1d2c73e2538.jpg');">
  <h1>Registration Form</h1>
 	<form action= "userDetail">
 		User Name: <input id="Uname" name="Uname"/><br>
@@ -20,5 +21,6 @@
 		<input name="Hobby" type="checkbox" value="Singing">Singing<br>
 		<input type="submit" value="Register Now"/> 
 	</form>
+</div>
 </body>
 </html>
